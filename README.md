@@ -13,7 +13,7 @@ This Python project focuses on extracting cryptocurrency data from the CoinMarke
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MampiononaRajaoferason/coinmarketcap-api-extraction.git
+    git clone  https://github.com/MampiononaRajaoferason/CryptoMarketCap-API-Data-Extraction.git
     ```
 
 2. Install dependencies:
